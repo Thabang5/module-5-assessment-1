@@ -6,6 +6,7 @@ import calender from '.src/calender';
 import search bar from '.src/search bar';
 import dashboard from '.src/dashboard';
 import logout from '.src/logout';
+import readData from '.src/read data';
 
 const Stack = createNativeStackNavigator();
 
